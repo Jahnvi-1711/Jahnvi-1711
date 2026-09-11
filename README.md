@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.png" alt="Jahnvi Soni banner" width="100%">
 
+<br><br>
+
 # Hi, I'm Jahnvi Soni 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst+%7C+Aspiring+Data+Analyst;Currently+pursuing+M.Com%2C+University+of+Delhi;Learning+Python%2C+SQL%2C+Power+BI+%7C+Excel+%7C+Statistics;Combining+research+%2B+business+with+analytics" alt="Typing SVG" />
@@ -14,7 +16,7 @@
 - 📚 Currently pursuing **M.Com** from the Department of Commerce, University of Delhi
 - 🎓 **B.Com (Hons)** Graduate — Jesus and Mary College, University of Delhi
 - 📊 Passionate about turning data and research into business insight
-- 💼 **Open to:** Data Analyst & Business Analyst roles (internships and entry-level positions)
+- 💼 **Open to:** internships/entry-level roles as a Data Analyst / Business Analyst
 
 <br>
 
@@ -46,12 +48,20 @@ Researched and analyzed Microsoft's corporate governance framework, code of ethi
 
 <br>
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
+
+📄 **Resume:** [View / Download PDF](./assets/Jahnvi_Soni_Resume.pdf)
+🔗 **LinkedIn:** [linkedin.com/in/jahnvi-soni-a4706531a](https://linkedin.com/in/jahnvi-soni-a4706531a)
+📧 **Email:** [sonijahnvi437@gmail.com](mailto:sonijahnvi437@gmail.com)
+
 <p>
 <a href="https://linkedin.com/in/jahnvi-soni-a4706531a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sonijahnvi437@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="./assets/Jahnvi_Soni_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-4B4B4B?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 </p>
