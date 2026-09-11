@@ -4,62 +4,54 @@
 
 # Hi, I'm Jahnvi Soni 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Learning+Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Combining+finance+%2B+business+with+analytics" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvi-soni-a4706531a)
-[![Email](https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonijahnvi437@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-1A1A2E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.image2url.com/r2/default/files/1788669635933-f3608ae2-cea3-4326-b2ba-54104c66bc40.docx)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst+%7C+Aspiring+Data+Analyst;Currently+pursuing+M.Com%2C+University+of+Delhi;Learning+Python%2C+SQL%2C+Power+BI+%7C+Excel+%7C+Statistics;Combining+research+%2B+business+with+analytics" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-### 🎯 About Me
+## 🎓 About Me
+- 📚 Currently pursuing **M.Com** from the Department of Commerce, University of Delhi
+- 🎓 **B.Com (Hons)** Graduate — Jesus and Mary College, University of Delhi
+- 📊 Passionate about turning data and research into business insight
+- 💼 **Open to:** Data Analyst & Business Analyst roles (internships and entry-level positions)
 
-I'm a B.Com (Hons) student building a career as a **Business Analyst**. My background is in finance and business — not computer science — which means I bring a strong grip on how businesses actually make decisions, and I'm now learning the technical tools to back that up with data. I'm combining what I already know about finance and business with new analytics skills, so I can help turn raw numbers into decisions that make sense on the ground.
+<br>
 
----
+## 🔭 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Fundamentals-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
-### 📚 Currently Learning
+<br>
 
-- 🐍 Python (for data analysis)
-- 🗄️ SQL (querying and managing data)
-- 📊 Power BI (dashboards and visualization)
-- 📈 Excel (data analysis fundamentals)
+## 📊 Projects & Case Studies
 
----
+### 📈 Research Dissertation — Impact of Financial Influencers on Investment Decisions of Young Investors
+Primary research covering financial literacy, behavioural biases, and investment patterns among 193 respondents across Delhi NCR.
 
-### 🛠️ Tools & Tech
+### 📊 Hospital ER Dashboard — Power BI
+Built an interactive Power BI dashboard analyzing hospital emergency room data — patient admissions, wait times, department referrals, and demographics — to surface operational KPIs and trends.
 
-**Data Analysis:** Python, SQL, Excel
-**Visualization:** Power BI
-**Foundations:** Business & Finance Fundamentals
+### 🧴 Marketing Campaign Plan — Elegant Beauty Foundation
+Developed a complete 7Ps marketing mix strategy for a skincare foundation brand, covering product positioning, pricing, distribution, and promotion.
 
----
+### 🏢 Corporate Ethics & CSR Case Study — Microsoft Corporation
+Researched and analyzed Microsoft's corporate governance framework, code of ethics, and CSR initiatives across sustainability, DEI, and digital inclusion.
 
-### 💼 Projects / Case Studies
+<br>
 
-> 🚧 I'm just starting out — my first business/data case studies are in progress and will be added here soon!
-
----
-
-### 🌱 Open To
-
-Internship and entry-level opportunities as a **Business Analyst**.
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvi-soni-a4706531a)
-[![Gmail](https://img.shields.io/badge/Email-2EC4B6?style=flat&logo=gmail&logoColor=white)](mailto:sonijahnvi437@gmail.com)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnvi-1711&show_icons=true&theme=dark&hide_border=true&title_color=2EC4B6&icon_color=2EC4B6&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi-1711&layout=compact&theme=dark&hide_border=true&title_color=2EC4B6&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
+## 🌐 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/jahnvi-soni-a4706531a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sonijahnvi437@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
