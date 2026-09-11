@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <img src="./assets/banner.png" alt="Jahnvi Soni banner" width="100%">
 
@@ -27,8 +27,6 @@
 ## 🎓 About Me
 
 I'm a Commerce graduate — **B.Com (Hons)** from Jesus and Mary College, University of Delhi — currently pursuing my **M.Com** from the Department of Commerce, University of Delhi. Along the way, I realized that the parts of Commerce I enjoyed most — research, patterns in numbers, understanding *why* something happens — are exactly what data and business analytics is about. That's what's pulling me from a Commerce background into an **analytics career**, building on research and business fundamentals rather than starting from scratch.
-
-- 💼 **Open to:** internships/entry-level roles as a Data Analyst / Business Analyst
 
 <br>
 
@@ -84,6 +82,12 @@ I'm a Commerce graduate — **B.Com (Hons)** from Jesus and Mary College, Univer
 <img src="https://github-readme-stats.vercel.app/api?username=Jahnvi-1711&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi-1711&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333" width="48%"/>
 </p>
+
+<br>
+
+## 🎯 Open To
+
+💼 Internships and entry-level roles as a **Data Analyst** / **Business Analyst**
 
 <br>
 
